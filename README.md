@@ -4,7 +4,7 @@ Repositório criado para documentar meu progresso, armazenar códigos práticos,
 
 ## Cronograma de estudos
 
-- [ ] Unidade 1: **Introdução a linguagem Python (Meta: 05/09)**
+- [✅] Unidade 1: **Introdução a linguagem Python (Meta: 05/09)**
 - [ ] Unidade 2: **Explorando Recursos e POO (Meta: 12/09)**
 - [ ] Unidade 3: ** Introdução à Análise de Dados (meta: 19/09)**
 - [ ] Unidade 4: **Aplicações Avançadas (Meta: 26/09)**
